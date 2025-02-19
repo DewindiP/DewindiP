@@ -2,11 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7A8B8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Pramodi+Dewindi!+👋;Aspiring+Software+Engineer" />
 </h1>
 
-<p align="center">
+<!--<p align="center">
   <img src="girl.webp" alt="Pramodi Dewindi" width="200" style="border-radius: 50%; border: 5px solid #F7A8B8; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);">
-</p>
-
----
+</p> -->
 
 ## 🌟 About Me  
 ✔ **IT Undergraduate**  
