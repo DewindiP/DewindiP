@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="girl.webp" width="100%">
+  <img src="your-image-path.jpg" alt="Pramodi Dewindi" width="200px" style="border-radius: 50%; border: 3px solid #F7A8B8;" />
 </p>
 
 
