@@ -1,9 +1,14 @@
-<h1 align="center">
+<<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7A8B8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Pramodi+Dewindi!+👋;Aspiring+Software+Engineer" />
 </h1>
 
 <p align="center">
-  <img src="your-image-path.jpg" alt="Pramodi Dewindi" width="200px" style="border-radius: 50%; border: 3px solid #F7A8B8;" />
+  <img src="girl.webp" alt="Pramodi Dewindi" width="200px" style="
+    border-radius: 50%;
+    border: 2px solid rgb(79, 59, 96);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease-in-out;
+  " />
 </p>
 
 
