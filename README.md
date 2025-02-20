@@ -25,7 +25,8 @@
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ### ⚙ Tools & Platforms  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 ---
 
 ## 🎯 Projects  
@@ -43,6 +44,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DewindiP&show_icons=true&theme=radical" width="48%" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DewindiP&theme=radical" width="48%" />
 </p>
 
