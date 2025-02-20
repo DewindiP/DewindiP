@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7A8B8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Pramodi+Dewindi!+👋;Aspiring+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=6A1E55&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Pramodi+Dewindi!+👋;Aspiring+Software+Engineer" />
 </h1>
 
 <!--<p align="center">
@@ -45,7 +45,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DewindiP&show_icons=true&theme=radical" width="48%" />
 </p>
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DewindiP&theme=radical" width="48%" />
 </p>
 
