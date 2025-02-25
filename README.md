@@ -31,12 +31,12 @@
 
 ## 🎯 Projects  
 
-📱 **[Seyoni](https://github.com/your-repo)** – A service provider app built with Flutter  
-🍽 **[Hungry Chef](https://github.com/your-repo)** – A food e-commerce website  
-✅ **[To-Do List](https://github.com/your-repo)** – A task management web application  
-🎵 **[Music Player Web App](https://github.com/your-repo)** – A responsive music player built with HTML, CSS, and JavaScript  
-💬 **[Minimal Chat App](https://github.com/your-repo)** – A chat app connected to Firebase  
-🧮 **[Simple Calculator](https://github.com/your-repo)** – A JavaScript calculator with history tracking  
+📱 **[Seyoni](https://github.com/DewindiP/Seyoni)** – A service provider app built with Flutter  
+🍽 **[Hungry Chef](https://github.com/DewindiP/Hungry-Chef)** – A food e-commerce website  
+✅ **[To-Do List](https://github.com/DewindiP/To-Do-List)** – A task management web application  
+🎵 **[Music Player Web App](https://github.com/DewindiP/Music-Player)** – A responsive music player built with HTML, CSS, and JavaScript  
+💬 **[Minimal Chat App](https://github.com/DewindiP/ChatApp)** – A chat app connected to Firebase  
+🧮 **[Simple Calculator](https://github.com/DewindiP/simple-calculator)** – A JavaScript calculator with history tracking  
 
 ---
 
