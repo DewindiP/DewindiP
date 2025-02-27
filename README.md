@@ -9,7 +9,7 @@
 ## 🌟 About Me  
 ✔ **IT Undergraduate**  
 ✔ Passionate about **Web Development, Mobile Development, UI/UX Design**  
-✔ Exploring **Mobile App Development, Firebase, and UI/UX principles**     
+    
 
 ---
 
