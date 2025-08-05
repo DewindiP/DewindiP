@@ -31,6 +31,7 @@
 
 ## 🎯 Projects  
 
+🎬 **[Movie Explorer](https://github.com/DewindiP/movie-explorer)**– A movie discovery app built with React, Material UI, and TMDB API
 📱 **[Seyoni](https://github.com/DewindiP/Seyoni)** – A service provider app built with Flutter  
 🍽 **[Hungry Chef](https://github.com/DewindiP/Hungry-Chef)** – A food e-commerce website  
 ✅ **[To-Do List](https://github.com/DewindiP/To-Do-List)** – A task management web application  
