@@ -25,13 +25,13 @@
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ### ⚙ Tools & Platforms  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](httpsimg.://shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 
 ---
 
 ## 🎯 Projects  
 
-🎬 **[Movie Explorer](https://github.com/DewindiP/movie-explorer)**– A movie discovery app built with React, Material UI, and TMDB API
+🎬 **[Movie Explorer](https://github.com/DewindiP/movie-explorer)**– A movie discovery app built with React, Material UI, and TMDB API  
 📱 **[Seyoni](https://github.com/DewindiP/Seyoni)** – A service provider app built with Flutter  
 🍽 **[Hungry Chef](https://github.com/DewindiP/Hungry-Chef)** – A food e-commerce website  
 ✅ **[To-Do List](https://github.com/DewindiP/To-Do-List)** – A task management web application  
