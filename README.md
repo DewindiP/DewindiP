@@ -78,8 +78,10 @@
   <a href="https://holopin.io/@dewindip">
     <img src="https://holopin.me/dewindip" alt="Holopin Badges">
   </a>
+</p>
+<p align="left">
   <a href="https://www.credly.com/badges/2e6cb02c-6f13-492e-a83c-30a73c216e66/public_url">
-    <img src="" alt="MongoDB Badges">
+    <img src="https://images.credly.com/size/220x220/images/234edfc5-0177-46e7-a61a-071f060af2f6/blob" alt="MongoDB Badges">
   </a>
 </p>
 
