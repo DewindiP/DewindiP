@@ -54,6 +54,16 @@
 
 ## 🚀 Featured Projects  
 
+🔹 📝 **MERN Memo Nest**  
+Full-stack note-taking app with authentication, CRUD operations, and responsive UI using MERN stack  
+🚀 Tech: MongoDB, Express, React, Node.js  
+👉 https://github.com/DewindiP/mern-memonest 
+
+🔹 🎬 **MERN Clipzy**  
+Full-stack media sharing platform with video uploads, user engagement features, and modern UI  
+🚀 Tech: MongoDB, Express, React, Node.js, Cloudinary  
+👉 https://github.com/DewindiP/clipzy
+
 🔹 🎬 **Movie Explorer**  
 A movie discovery app built with React, Material UI, and TMDB API  
 👉 https://github.com/DewindiP/movie-explorer  
@@ -65,10 +75,6 @@ Service provider mobile application built with Flutter
 🔹 🍽 **Hungry Chef**  
 Food e-commerce web application  
 👉 https://github.com/DewindiP/Hungry-Chef  
-
-🔹 💬 **Minimal Chat App**  
-Real-time chat application using Firebase  
-👉 https://github.com/DewindiP/ChatApp  
 
 🔹 🎵 **Music Player Web App**  
 Responsive music player using HTML, CSS, and JavaScript  
