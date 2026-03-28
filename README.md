@@ -11,7 +11,7 @@
 ## 👩‍💻 About Me  
 
 🎓 IT Undergraduate passionate about building real-world applications  
-💻 Focused on **Frontend, Mobile App Development & UI/UX**  
+💻 Focused on **Frontend, Mobile App Development**  
 🚀 Currently improving skills in **Full Stack Development**  
 🎯 Goal: Become a **Professional Software Engineer**  
 
